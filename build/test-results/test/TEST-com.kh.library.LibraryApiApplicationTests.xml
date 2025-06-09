@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kh.library.LibraryApiApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-09T00:42:26" hostname="DESKTOP-9AGJGJG" time="0.508">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.kh.library.LibraryApiApplicationTests" time="0.508"/>
+  <system-out><![CDATA[09:42:25.101 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.kh.library.LibraryApiApplicationTests]: LibraryApiApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+09:42:25.186 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.kh.library.LibraryApiApplication for test class com.kh.library.LibraryApiApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.6)
+
+2025-06-09T09:42:25.479+09:00  INFO 11508 --- [libraryApi] [    Test worker] c.kh.library.LibraryApiApplicationTests  : Starting LibraryApiApplicationTests using Java 17.0.12 with PID 11508 (started by user1 in C:\workspace\WorkSpace\06_framework\02_spring\libraryApi)
+2025-06-09T09:42:25.480+09:00  INFO 11508 --- [libraryApi] [    Test worker] c.kh.library.LibraryApiApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2025-06-09T09:42:26.179+09:00  INFO 11508 --- [libraryApi] [    Test worker] c.kh.library.LibraryApiApplicationTests  : Started LibraryApiApplicationTests in 0.883 seconds (process running for 1.642)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
